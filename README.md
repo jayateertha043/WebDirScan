@@ -53,4 +53,4 @@ Usage of WebDirScan:
 * Github: [@jayateertha043](https://github.com/jayateertha043)
 
 ## License
-WebDirScan is licensed under the MIT License. See LICENSE for more information.
+WebDirScan is licensed under the MIT License. See [LICENSE](https://github.com/jayateertha043/WebDirScan/blob/main/LICENSE) for more information.
